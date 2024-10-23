@@ -1,6 +1,6 @@
 <h3 align="center">Massamba GUEYE</h3>
 <h3 align="center">Analytics Engineer</h3>
-<h3 align="center">À propos de mo</h3>
+<h3 align="center">À propos de moi</h3>
 
 <p>
 En tant qu'Analytics Engineer passionné, j'aide les entreprises à transformer leurs données brutes en informations exploitables grâce à des pipelines de données robustes, optimisés pour l'évolutivité et la performance.
