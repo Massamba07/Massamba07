@@ -1,28 +1,25 @@
 <h3 align="center">Massamba GUEYE</h3>
 <h3 align="center">Analytics Engineer</h3>
 
-<h3 align="center">À propos de moi</h3>  
+<h3>À propos de moi</h3>  
 <p>
-<div align="center">
-<br> En tant qu'Analytics Engineer passionné, j'aide les entreprises à transformer leurs données brutes en informations exploitables grâce à des pipelines de données robustes, optimisés pour l'évolutivité et la performance.
-<br>
+En tant qu'Analytics Engineer passionné, j'aide les entreprises à transformer leurs données brutes en informations exploitables grâce à des pipelines de données robustes, optimisés pour l'évolutivité et la performance.
+
 🌱 Toujours en quête d'innovation, je combine mon expertise technique avec un esprit analytique pour maximiser la valeur des données tout en garantissant leur qualité et leur intégrité tout au long du processus.
-<br>
+
 💼 Fort de mon expérience dans l'intégration de données, j'excelle dans :
- - L'automatisation des pipelines ETL/ELT
- - La transformation et modélisation des données pour la prise de décision
- - L'optimisation des workflows et l'orchestration de pipelines complexes
- - L'analyse avancée avec SQL, Python et outils cloud (GCP, AWS)
-<br>
+- L'automatisation des pipelines ETL/ELT
+- La transformation et modélisation des données pour la prise de décision
+- L'optimisation des workflows et l'orchestration de pipelines complexes
+- L'analyse avancée avec SQL, Python et outils cloud (GCP, AWS)
+
 🚀 Je reste à l'avant-garde des technologies en maîtrisant :
- - L'ingénierie des données et l'infrastructure analytique
- - Le traitement de grandes volumétries de données en temps réel
- - Les bonnes pratiques de CI/CD pour une livraison continue de projets
- - L'architecture de données dans des environnements distribués et cloud
-<br>
+- L'ingénierie des données et l'infrastructure analytique
+- Le traitement de grandes volumétries de données en temps réel
+- Les bonnes pratiques de CI/CD pour une livraison continue de projets
+- L'architecture de données dans des environnements distribués et cloud
+
 💡 Ma mission est d'apporter des solutions end-to-end optimisées, garantissant des données fiables et prêtes à l'emploi, en collaboration avec des équipes produit, data science et BI pour répondre aux besoins stratégiques.
-</div>
-</p>
 
 
 📫Comment me joindre ? Je réponds par mail : m.massamba.gueye@gmail.com
