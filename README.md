@@ -18,6 +18,7 @@ En tant qu'Analytics Engineer passionné, j'aide les entreprises à transformer 
 - Le traitement de grandes volumétries de données en temps réel
 - Les bonnes pratiques de CI/CD pour une livraison continue de projets
 - L'architecture de données dans des environnements distribués et cloud
+- La mise en place de tableaux de bord  
 
 💡 Ma mission est d'apporter des solutions end-to-end optimisées, garantissant des données fiables et prêtes à l'emploi, en collaboration avec des équipes produit, data science et BI pour répondre aux besoins stratégiques.
 
