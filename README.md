@@ -1,7 +1,7 @@
 <h3 align="center">Massamba GUEYE</h3>
 <h3 align="center">Analytics Engineer</h3>
+<h3 align="center">À propos de mo</h3>
 
-<h3>À propos de moi</h3>  
 <p>
 En tant qu'Analytics Engineer passionné, j'aide les entreprises à transformer leurs données brutes en informations exploitables grâce à des pipelines de données robustes, optimisés pour l'évolutivité et la performance.
 
@@ -11,7 +11,7 @@ En tant qu'Analytics Engineer passionné, j'aide les entreprises à transformer 
 - L'automatisation des pipelines ETL/ELT
 - La transformation et modélisation des données pour la prise de décision
 - L'optimisation des workflows et l'orchestration de pipelines complexes
-- L'analyse avancée avec SQL, Python et outils cloud (GCP, AWS)
+- L'analyse avancée avec SQL, Python et outils cloud (GCP)
 
 🚀 Je reste à l'avant-garde des technologies en maîtrisant :
 - L'ingénierie des données et l'infrastructure analytique
