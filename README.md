@@ -1,5 +1,5 @@
 <h3 align="center">Massamba GUEYE</h3>
-<h3 align="center">Analytics Engineer</h3>
+<h3 align="center">Data Analytics Engineer</h3>
 <h3 align="center">À propos de moi</h3>
 
 <p>
