@@ -57,7 +57,6 @@ En tant qu'Analytics Engineer passionné, j'aide les entreprises à transformer 
 <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="70" height="70"/></a>&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/512/docker.png" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
 <<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" 
-         title="PostgreSQL" alt="PostgreSQL" width="70" height="70" />
-</a>&nbsp;
+         title="PostgreSQL" alt="PostgreSQL" width="70" height="70" /></a>&nbsp;
 
 </p>
