@@ -47,7 +47,6 @@ En tant qu'Analytics Engineer passionné, j'aide les entreprises à transformer 
 <p align="center">
 <a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/></a>&nbsp;
 <a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="70" height="70"/></a>&nbsp;
-<a href="https://www.canva.com/tools/logo-maker-q1/?clickId=w671MsReixyIUGuwFGT2H2vQUkDz3iWZAWLTVc0&utm_medium=affiliate&utm_source=MaxBounty.com%20ULC_10813&irgwc=1" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="70" height="70"/></a>&nbsp;
 <a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt=" Apache Spark" width="70" height="70"/></a>&nbsp;
 <a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/></a>&nbsp;
 <a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
