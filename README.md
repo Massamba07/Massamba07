@@ -57,8 +57,7 @@ En tant qu'Analytics Engineer passionné, j'aide les entreprises à transformer 
 <a href="https://www.snowflake.com/en/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" title="Snowflake" alt="Snowflake" width="70" height="70"/></a>&nbsp;
 <a href="https://airflow.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="70" height="70"/></a>&nbsp;
 <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/512/docker.png" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
-<<a href="https://www.postgresql.org/" target="_blank">
-    <img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-postgresql-business-and-finance-justicon-flat-justicon.png" 
+<<a href="https://www.postgresql.org/" target="_blank"><img src="[https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-postgresql-business-and-finance-justicon-flat-justicon.png](https://www.postgresql.org/media/img/about/press/elephant.png)z" 
          title="PostgreSQL" alt="PostgreSQL" width="70" height="70" />
 </a>&nbsp;
 
