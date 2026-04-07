@@ -20,9 +20,6 @@ Je reste à l'avant-garde des technologies en maîtrisant :
 
 Ma mission est d'apporter des solutions end-to-end optimisées, garantissant des données fiables et prêtes à l'emploi, en collaboration avec des équipes produit, data science et BI pour répondre aux besoins stratégiques.
 
-
-Comment me joindre ? Je réponds par mail : m.massamba.gueye@gmail.com
-
 <!-- Socials --> 
 
 <h3 align="center">Connect with me:</h3>  
