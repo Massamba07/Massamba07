@@ -1,5 +1,5 @@
 <h3 align="center">Massamba GUEYE</h3>
-<h3 align="center">Data Engineer</h3>
+<h3 align="center">Data Engineer | Analytics Engineer </h3>
 <p>
 En tant que data & analytics engineer passionné, j'aide les entreprises à transformer leurs données brutes en informations exploitables grâce à des pipelines de données robustes, optimisés pour l'évolutivité et la performance.
 
