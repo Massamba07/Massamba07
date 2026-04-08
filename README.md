@@ -23,9 +23,6 @@ Ma mission est d'apporter des solutions end-to-end optimisées, garantissant des
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png" style="height: 3rem"/>
 </a>
 
-
-
-
 </div>
 
 <!-- Tech Stack --> 
