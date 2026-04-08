@@ -20,7 +20,7 @@ Je développe des architectures data modernes en m’appuyant sur :
 Ma mission est de concevoir des solutions data end-to-end performantes, garantissant des données fiables, accessibles et exploitables, en collaboration avec les équipes produit, data science et BI.
 </p>
 
-<h3 align="center">Connect with me:</h3>  
+<h3>Connect with me:</h3>  
 <a href="mailto:m.massamba.gueye@gmail.com" target="blank">
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png" style="height: 3rem"/>
 </a>
