@@ -19,13 +19,6 @@ Ma mission est d'apporter des solutions end-to-end optimisées, garantissant des
 <!-- Socials --> 
 
 <h3 align="center">Connect with me:</h3>  
-<div align="center">
-<a href="https://www.linkedin.com/in/massambagueye/" target="blank">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
-</a>
-
-
-
 <a href="mailto:m.massamba.gueye@gmail.com" target="blank">
 <img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png" style="height: 3rem"/>
 </a>
