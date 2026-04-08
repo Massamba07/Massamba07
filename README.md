@@ -1,10 +1,6 @@
 <h3 align="center">Massamba GUEYE</h3>
 <h3 align="center">Data Engineer / Analytics Engineer </h3>
 <p>
-En tant que data & analytics engineer passionné, j'aide les entreprises à transformer leurs données brutes en informations exploitables grâce à des pipelines de données robustes, optimisés pour l'évolutivité et la performance.
-
-Toujours en quête d'innovation, je combine mon expertise technique avec un esprit analytique pour maximiser la valeur des données tout en garantissant leur qualité et leur intégrité tout au long du processus.
-
 Fort de mon expérience dans l'intégration de données, j'excelle dans :
 - L'automatisation des pipelines ETL/ELT
 - La transformation et modélisation des données pour la prise de décision
