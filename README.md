@@ -1,41 +1,38 @@
 <h3 align="center">Massamba GUEYE</h3>
-<h3 align="center">Data Engineer | Analytics Engineer</h3>
+<h4 align="center">Data Engineer | Analytics Engineer</h4>
 
-<p>
-Data Engineer spécialisé dans la conception et l’industrialisation de pipelines de données, avec un fort intérêt pour les environnements Cloud et les pratiques DevOps.
-
-Mes expertises couvrent :
-- La conception et l’automatisation de pipelines ETL/ELT robustes et scalables  
-- La transformation et la modélisation des données pour la prise de décision  
-- L’orchestration et l’optimisation de workflows data complexes  
-- L’analyse avancée avec SQL, Python et les environnements cloud (GCP)  
-
-Je développe des architectures data modernes en m’appuyant sur :
-- Les bonnes pratiques en data engineering et infrastructure analytique  
-- Le traitement de données à grande échelle (batch et temps réel)  
-- L’intégration de pipelines CI/CD pour une livraison continue et fiable  
-- La conception d’architectures distribuées et cloud-native  
-- La création de tableaux de bord et produits data  
-
-Ma mission est de concevoir des solutions data end-to-end performantes, garantissant des données fiables, accessibles et exploitables, en collaboration avec les équipes produit, data science et BI.
+<p align="center">
+Data Engineer spécialisé dans la conception et l’industrialisation de pipelines data, avec une forte appétence pour le Cloud et les pratiques DevOps.
 </p>
 
-<h3>Email:</h3>  
-<a href="mailto:m.massamba.gueye@gmail.com" target="blank">
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png" style="height: 3rem"/>
-</a>
-
-<!-- Tech Stack --> 
-<h3 align="Center">Tech Stack:</h3>  
 <p align="center">
-<a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="70" height="70"/></a>&nbsp;
-<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="70" height="70"/></a>&nbsp;
-<a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="Apache Spark" alt=" Apache Spark" width="70" height="70"/></a>&nbsp;
-<a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="70" height="70"/></a>&nbsp;
-<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQL lite" alt="SQL lite" width="70" height="70"/></a>&nbsp;
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="Vs code" alt="Vscode" width="70" height="70"/></a>&nbsp;
-<a href="https://www.snowflake.com/en/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" title="Snowflake" alt="Snowflake" width="70" height="70"/></a>&nbsp;
-<a href="https://airflow.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353380/airflow.svg" title="Airflow" alt="Airflow" width="70" height="70"/></a>&nbsp;
-<a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/512/docker.png" title="Docker" alt="Docker" width="70" height="70"/></a>&nbsp;
-<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" title="PostgreSQL" alt="PostgreSQL" width="70" height="70" /></a>&nbsp;
+🔹 ETL/ELT scalables & automatisation  
+🔹 Modélisation & transformation des données  
+🔹 Orchestration de workflows (batch & temps réel)  
+🔹 Analyse avancée (SQL, Python, GCP)  
+</p>
+
+<p align="center">
+Je conçois des architectures data modernes et cloud-native, intégrant CI/CD, traitement distribué et data products, afin de garantir des données fiables, accessibles et exploitables pour les équipes métier.
+</p>
+
+<h4 align="center">📫 Contact</h4>
+<p align="center">
+<a href="mailto:m.massamba.gueye@gmail.com">
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png" height="40"/>
+</a>
+</p>
+
+<h4 align="center">⚙️ Tech Stack</h4>
+<p align="center">
+<a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"/></a>
+<a href="https://github.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" width="50"/></a>
+<a href="https://spark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" width="50"/></a>
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" width="50"/></a>
+<a href="https://www.sqlite.org/index.html" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" width="50"/></a>
+<a href="https://code.visualstudio.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50"/></a>
+<a href="https://www.snowflake.com/en/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" width="50"/></a>
+<a href="https://airflow.apache.org/" target="_blank"><img src="https://www.svgrepo.com/show/353380/airflow.svg" width="50"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/color/512/docker.png" width="50"/></a>
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="50"/></a>
 </p>
