@@ -16,13 +16,6 @@ Data Engineer spécialisé dans la conception et l’industrialisation de pipeli
 Je conçois des architectures data modernes et cloud-native, intégrant CI/CD, traitement distribué et data products, afin de garantir des données fiables, accessibles et exploitables pour les équipes métier.
 </p>
 
-<h4 align="center">📫 Contact</h4>
-<p align="center">
-<a href="mailto:m.massamba.gueye@gmail.com">
-<img src="https://cdn2.iconfinder.com/data/icons/social-icons-color/512/gmail-512.png" height="40"/>
-</a>
-</p>
-
 <h4 align="center">⚙️ Tech Stack</h4>
 <p align="center">
 <a href="https://jupyter.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50"/></a>
